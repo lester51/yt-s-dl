@@ -1,0 +1,33 @@
+{
+  "name": "youtube-s-dl",
+  "version": "1.0.9-beta",
+  "description": "A YouTube Video/Audio downloader.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "youtube-scraper",
+    "yt-scraper",
+    "ytdl",
+    "youtube-downloader",
+    "youtube-video-downloader"
+  ],
+  "dependencies": {
+   "axios": "^1.4.0",
+   "cheerio": "^1.0.0-rc.12",
+   "request": "2.88.2",
+   "querystring": "0.2.1",
+   "vm": "0.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lester51/yt-s-dl.git"
+  },
+  "bugs": {
+    "url": "https://github.com/lester51/yt-s-dl/issues"
+  },
+  "homepage": "https://github.com/lester51/yt-s-dl",
+  "author": "HackMeSenpai",
+  "license": "MIT"
+}
